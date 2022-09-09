@@ -8,7 +8,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints a random number and states whether it is positive, negative, or zero.
+ * main - Program entry point;
  *
  *
  * Return: Always 0.
